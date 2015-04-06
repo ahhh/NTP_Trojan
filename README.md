@@ -4,4 +4,4 @@
 Reverse ntp remote access trojan in python, for penetration testers
 
 #References
-Derived from: https://github.com/limifly/ntpserver
+Server is heavily derived from: https://github.com/limifly/ntpserver
